@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olivblvck
-- 🌱 I’m currently learning c++ , Swift and Java
-- 👶🏻 I'm quite new here so hope y'all understand ;p
+- 🌱 I’m currently learning c++ 
+- 👶🏻 I'm new here:)
 
 
 
