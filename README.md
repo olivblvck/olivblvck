@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @olivblvck
-- 🌱 I’m currently learning c++ 
-- 👶🏻 I'm new here:)
-
 
 
 <!---
